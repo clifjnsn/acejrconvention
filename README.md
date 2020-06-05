@@ -6,7 +6,7 @@ This is a basic php based website (with Mysql database backend), containerized i
 ##To Install:
 > git close https://github.com/clifjnsn/acejrconvention.git
 
-> sudo docker build -t acejrconvention:1.0 .
+> sudo docker build -t acejrconvention:1.0 acejrconvention
 
 > sudo docker run --rm -t -p 8080:80 -i acejrconvention:1.0 /bin/bash
 
