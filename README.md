@@ -4,7 +4,7 @@
 This is a basic php based website (with Mysql database backend), containerized in Docker so that anyone can build the image and run their own "Master Control" system and track Schools, People, Events, Payments, and Scores
 
 ##To Install:
-> git close https://github.com/clifjnsn/acejrconvention.git
+> git clone https://github.com/clifjnsn/acejrconvention.git
 
 > sudo docker build -t acejrconvention:1.0 acejrconvention
 
